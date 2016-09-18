@@ -1,0 +1,6 @@
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TestComPackageLength.exe.config
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TestComPackageLength.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TestComPackageLength.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\Test\TestComPackageLength\obj\Debug\TestComPackageLength.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\Test\TestComPackageLength\obj\Debug\TestComPackageLength.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\Test\TestComPackageLength\obj\Debug\TestComPackageLength.csprojResolveAssemblyReference.cache

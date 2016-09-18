@@ -1,0 +1,13 @@
+E:\工作目录\工作区\平台软件\ServerSuperIO\bin\TestService.dll
+E:\工作目录\工作区\平台软件\ServerSuperIO\bin\TestService.pdb
+E:\工作目录\工作区\平台软件\ServerSuperIO\TestService\obj\Release\TestService.csprojResolveAssemblyReference.cache
+E:\工作目录\工作区\平台软件\ServerSuperIO\TestService\obj\Release\TestService.dll
+E:\工作目录\工作区\平台软件\ServerSuperIO\TestService\obj\Release\TestService.pdb
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TestService.dll
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TestService.pdb
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TestService\obj\Release\TestService.csprojResolveAssemblyReference.cache
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TestService\obj\Release\TestService.dll
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TestService\obj\Release\TestService.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TestService\obj\Release\TestService.csprojResolveAssemblyReference.cache
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TestService\obj\Release\TestService.dll
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TestService\obj\Release\TestService.pdb

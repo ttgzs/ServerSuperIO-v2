@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<DeviceDyn xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <DeviceID>d1f2ec47-7817-4cc0-88e5-7de9e41457ea</DeviceID>
+  <Remark />
+  <RunState>None</RunState>
+  <CommunicateState>None</CommunicateState>
+  <ChannelState>None</ChannelState>
+  <Dyn>
+    <CurDT>2016-09-14T22:53:18.8153134+08:00</CurDT>
+    <ProHead />
+    <DeviceAddr>-1</DeviceAddr>
+    <Command />
+    <ProEnd />
+    <Flow>0</Flow>
+    <Signal>0</Signal>
+  </Dyn>
+</DeviceDyn>

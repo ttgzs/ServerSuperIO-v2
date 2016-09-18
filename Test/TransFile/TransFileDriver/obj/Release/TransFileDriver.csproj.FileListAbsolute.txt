@@ -1,0 +1,10 @@
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileDriver.dll
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileDriver.pdb
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TransFile\TransFileDriver\obj\Release\TransFileDriver.csprojResolveAssemblyReference.cache
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TransFile\TransFileDriver\obj\Release\TransFileDriver.dll
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TransFile\TransFileDriver\obj\Release\TransFileDriver.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TransFile\TransFileDriver\obj\Release\TransFileDriver.csprojResolveAssemblyReference.cache
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileDriver.dll
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileDriver.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TransFile\TransFileDriver\obj\Release\TransFileDriver.dll
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TransFile\TransFileDriver\obj\Release\TransFileDriver.pdb

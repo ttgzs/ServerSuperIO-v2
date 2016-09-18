@@ -1,0 +1,11 @@
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileClient.exe
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileClient.exe.config
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileClient.pdb
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TransFile\TransFileClient\obj\Debug\TransFileClient.csprojResolveAssemblyReference.cache
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TransFile\TransFileClient\obj\Debug\TransFileClient.exe
+E:\工作目录\工作区\平台软件\ServerSuperIO\trunk\TransFile\TransFileClient\obj\Debug\TransFileClient.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\Test\TransFile\TransFileClient\obj\Debug\TransFileClient.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\Test\TransFile\TransFileClient\obj\Debug\TransFileClient.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileClient.exe.config
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileClient.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TransFileClient.pdb

@@ -1,0 +1,6 @@
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TestNetPackageLength.exe.config
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TestNetPackageLength.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\TestNetPackageLength.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\Test\TestNetPackageLength\obj\Release\TestNetPackageLength.csprojResolveAssemblyReference.cache
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\Test\TestNetPackageLength\obj\Release\TestNetPackageLength.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\Test\TestNetPackageLength\obj\Release\TestNetPackageLength.pdb

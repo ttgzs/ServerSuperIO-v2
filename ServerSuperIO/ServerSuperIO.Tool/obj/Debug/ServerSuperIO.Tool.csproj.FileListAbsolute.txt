@@ -1,0 +1,10 @@
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\ServerSuperIO.Tool.exe.config
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\ServerSuperIO.Tool.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\ServerSuperIO.Tool.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Tool\obj\Debug\ServerSuperIO.Tool.csprojResolveAssemblyReference.cache
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Tool\obj\Debug\ServerSuperIO.Tool.Properties.Resources.resources
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Tool\obj\Debug\ServerSuperIO.Tool.csproj.GenerateResource.Cache
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Tool\obj\Debug\ServerSuperIO.Tool.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Tool\obj\Debug\ServerSuperIO.Tool.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Tool\obj\Debug\ServerSuperIO.Tool.ToolMainForm.resources
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Tool\obj\Debug\ServerSuperIO.Tool.AddForm.resources

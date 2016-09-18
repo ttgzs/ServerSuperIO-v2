@@ -1,0 +1,6 @@
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\ServerSuperIO.Host.exe.config
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\ServerSuperIO.Host.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\bin\ServerSuperIO.Host.pdb
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Host\obj\Debug\ServerSuperIO.Host.csprojResolveAssemblyReference.cache
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Host\obj\Debug\ServerSuperIO.Host.exe
+F:\工作目录\工作区\平台软件\ServerSuperIO\trunk\ServerSuperIO\ServerSuperIO.Host\obj\Debug\ServerSuperIO.Host.pdb
